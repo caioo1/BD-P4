@@ -1,1 +1,20 @@
-EU ODEIO AVALIAÇÕES
+ALUNO: CAIO VIEIRA CAJAZEIRAS
+AVALIAÇÃO 01 - BANCO DE DADOS P4
+
+
+1) Dado: o dado consiste em qualquer elemento discernido em sua forma bruta, que isolado não consegue transmitir uma ideia completa e clara. Podemos considerá-lo como o
+constituinte da informação, onde um dado deve ser organizado e agrupado a outros.
+
+2) Informação: a informação corresponde a um conjunto (agrupamento) de dados tratados e analisados, proporcionando dessa maneira a transmissão de ideias com mais clareza
+e carregada de significados. Logo, é exatamente um conjunto de dados correlacionados.
+
+3) Arquivo Convencional: um arquivo de computador corresponde a um recurso utilizado para armazenar informações, onde eles podem ser bem melhor organizados tornando-os
+mais acessíveis e gerenciáveis, possibilitando que o acesso a determinado dado seja mais rápido. Um problema que existe quando se trata no gerenciamento de dados é a
+denominada redundância de dados que ocorre quando uma determinada informação está representada no sistema em computador várias vezes, surgindo a partir do caso de uma
+das funções for informatizada de forma separada, sem considerar a informatização das demais funções, sendo dessa forma criado um arquivo separado de produtos para cada
+uma das funções que necessitam dela. A redundância de dados pode gerar problemas como entrada repetida da mesma informação e inconsistências de dados.
+
+4) Banco de Dados: Para trabalhar a conceitualização de Banco de Dados vamos considerar o problema da Redundância de dados desenvolvido na explicação de Arquivo
+Convencional. Agora, pensando nesse trabalho de distribuição e manejo de dados, onde temos uma solução para a redundância de dados que corresponde ao compartilhamento de
+dados, onde nessa forma de processamento cada informação é armazenada uma única vez, sendo acessada por todas as funções / sistemas que necessitarem dela, o que se
+assemelha a ideia de Banco de Dados que consiste exatamente com um conjunto de dados integrados que tem por objetivo atender a uma comunidade de usuários.

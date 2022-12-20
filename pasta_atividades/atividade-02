@@ -1,1 +1,25 @@
+Um sistema de usuário único é aquele no qual 
+somente um único usuário pode operar num certo 
+momento; o sistema de usuários múltiplos é aquele
+em que diversos usuários podem operar simultaneam
+ente. Na realidade, a distinção é irrelevante,
+pois um dos objetivos da maioria dos sistemas de 
+usuários múltiplos é precisamente possibilitar a
+cada usuário individual comportar-se como se
+estivesse trabalhando com um sistema de usuário
+único. Os problemas especiais dos sistemas de
+usuários múltiplos são essencialmente internos
+do sistema, não visíveis ao usuário.
 
+
+
+Uma importante característica dos Sistemas de
+Banco de Dados é que eles sejam integrados e
+compartilhados. Estes dois aspectos, integração
+e compartilhamento, representam uma das maiores
+vantagens dos sistemas de banco de dados. Por
+"integrado" entende-se que o banco de dados pode
+ser imaginado como a unificação de diversos
+arquivos de dados, eliminando-se total ou
+parcialmente qualquer redundância entre os
+mesmos.
